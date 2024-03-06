@@ -1,0 +1,2 @@
+In main.tf file , i have created an db instance with storage, instance class, mysql engine , keypair, username and password and dbname and kept it as private and also passed variabale
+In var.tf file i have mentioned the values

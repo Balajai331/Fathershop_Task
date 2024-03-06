@@ -1,0 +1,2 @@
+In main.tf file for provider configuration , i have mentioned the version and aws and region 
+in var.tf file i have mentioned the value 

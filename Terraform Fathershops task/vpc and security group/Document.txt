@@ -1,0 +1,2 @@
+In main.tf file i have created a vpc , subnets , IGW , Route table and Route Table association , security group , elastic IP , Nat Gateway
+In var.tf file i have mentioned the velues of variable for vpc , subnets , IGW , Route table and Route Table association , security group , elastic IP , Nat Gateway

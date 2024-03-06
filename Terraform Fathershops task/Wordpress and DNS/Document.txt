@@ -1,0 +1,2 @@
+In main.tf file , i have created a MySQL RDS instance for WordPress , Elastic IP for the EC2 instance , Configured WordPress to use the RDS instance , Created R53 DNS record for WordPress
+In word.tfvars file , i g=have mentioned the variables

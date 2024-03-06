@@ -1,0 +1,2 @@
+In main.tf file i have created an ec2 instance with instance type , keypair and attached my own customized vpc and passed it as variables for security purpose 
+In var.tf file i have mentioned the value of the variables

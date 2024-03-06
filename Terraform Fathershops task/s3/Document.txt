@@ -1,0 +1,2 @@
+In main.tf file , i have created a bucket and listed in private
+in s3.tfvars , i have mentianed values for region , bucket , acl
