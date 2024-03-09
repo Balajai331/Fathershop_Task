@@ -1,4 +1,4 @@
-/*
+
 variable "region" {
   description = "AWS region"
   type        = string
@@ -17,7 +17,7 @@ variable "acl" {
   default     = "private"
 }
 
-*/
+
 
 provider "aws" {
   region = var.region
